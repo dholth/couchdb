@@ -75,6 +75,7 @@ You can install the dependencies by running:
 
     sudo yum install autoconf autoconf-archive automake \
         curl-devel erlang-asn1 erlang-erts erlang-eunit \
+        erlang-reltool erlang-erl_interface \
         erlang-os_mon erlang-xmerl help2man \
         js-devel-1.8.5 libicu-devel libtool perl-Test-Harness
 
